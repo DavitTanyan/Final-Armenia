@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+.mainot{
+    color: rgb(255,255,255);
+    font-family: 'Chelsea Market', cursive;
+}
+.garni{
+    font-family: 'Chelsea Market', cursive;
+
+}
+h1{
+    font-family: 'Chelsea Market', cursive;  
+    text-align: center; 
+    
+}
+.hr{
+    border: 1px solid black;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.fb{
+    color: white;
+    font-size: 30px;
+    /* margin: 3px;     */
+}
+.info-text{
+    color: #000000;
+}
+.info{
+    background-color: rgb(0,0,0);
+    min-height: 35px;
+}
+.card-body{
+    border: 3px solid black;
+    margin-top: 2px;
+}

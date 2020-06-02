@@ -1,0 +1,35 @@
+
+.info{
+    background-color: #0D0D0D;
+    min-height: 35px;
+}
+
+.fb{
+    color: white;
+    font-size: 30px;
+    /* margin: 3px;     */
+}
+
+.info-text{
+    color: #000000;
+}
+
+audio{
+    width: 100%;
+}
+
+.navbar{
+    border-radius: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.mainot{
+    color: white;
+}
+a:hover{
+    text-decoration:none;
+}
